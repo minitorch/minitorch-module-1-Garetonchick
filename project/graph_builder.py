@@ -1,5 +1,7 @@
 import networkx as nx
 
+import sys
+sys.path.append("D:\\repos\\minitorch-solutions\\minitorch-module-1-Garetonchick")
 import minitorch
 
 
